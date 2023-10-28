@@ -1,0 +1,21 @@
+<html>
+  <head>
+    <title>Xin Yi's webpage</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+      <h1 class="title">Hello MHI Students! </h1>
+      </P>
+        Welcome to my webpage!
+      </p>
+        
+      </p>In this webpage, I am going to show you the The Digital Health Canada Professional Career Matrix (2019), which clearly identifies career paths and
+opportunities across nine unique domains and five proficiency levels within the digital
+health sector. 
+      </P>
+      <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.usfhealthonline.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2017%2F02%2Fusfhealth_infographic_perpsective-compressor1-1.jpg&tbnid=pbWd6sIPg7J44M&vet=12ahUKEwish8WNmpmCAxVuNlkFHVZAAU0QMygMegQIARBl..i&imgrefurl=https%3A%2F%2Fwww.usfhealthonline.com%2Fresources%2Fhealth-informatics%2Fhealth-informatics-jobs-health-informatics-salary%2F&docid=bwGbXppAYZQOiM&w=715&h=402&q=health%20informatics%20careers&ved=2ahUKEwish8WNmpmCAxVuNlkFHVZAAU0QMygMegQIARBl"
+      alt="health informatics jobs">
+      <p id="currentTime"></p>
+      <script src="script.js"></script>
+  </body>
+</html>
